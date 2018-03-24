@@ -1,0 +1,2 @@
+.\exe\classification.exe classification2\deploy.prototxt classification2\caffe_alexnet_train_iter_100.caffemodel classification2\train_mean.binaryproto classification2\synset_words.txt classification2\untrained-samples\dolphin1.jpg
+pause 

@@ -1,0 +1,2 @@
+.\exe\classification.exe classification7\deploy.prototxt classification7\caffenet_train_iter_30.caffemodel classification7\mytest_mean.binaryproto classification7\synset_words.txt classification7\testimage\504.jpg
+pause 
